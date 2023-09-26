@@ -6,3 +6,5 @@
 </div>
 
 ![qqq](https://github-readme-stats.vercel.app/api?username=zming333&count_private=true&show_icons=true&include_all_commits=true&bg_color=30,e96443,f4a460,a52a2a)
+
+![qqq](https://github-readme-stats.vercel.app/api?username=zming333&count_private=true&show_icons=true&include_all_commits=true&bg_color=30,e96443,a52a2a)
